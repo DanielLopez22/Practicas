@@ -1,0 +1,52 @@
+Brendan Eich
+
+JavaScrib fue creado en el año 1995, creado por Brendan Eich.
+El cual trabajaba en una empresa Netscape Communications Corporation (Actualmente no existe),
+dicha empresa le pide a Brendan que cree una tecnologia que puedan implementar al Navegador
+Netscape Navigator, para hacer cosas dimanicas, como reaccionar a botones, enviar formularios
+con el HTML, no se sabe con exactitud pero se dice que Brendan, solo tuvo 13 dias para
+desarrollar el lenguaje.
+JavaScrib en sus inicios tuvo varios nombres, originalmente llamado Mocha, luego denominado LiveScrip.
+En la decada de los 90 JavaScrib fue una tecnologia que surgio como competencia al lenguaje de
+programación C.
+En un evento de la empresa MaicronSystem que en ese enonces llebaba Java, le dieron la oportunidad
+a Netscape de presentar su tecnologia para el navegador, alli por aprovechar el auje de Java,
+rebautizaron el nombre de la tecnologia a JavaScrib, a partir de alli se a tenido toda esta
+confucion de que Java y JavaScrib tienen que ver en algo, pero no solo es el nombre.
+
+JavaScrib nace en el año 1995 y esta basado en un estandar llamado ECMAScrip.
+
+ECMAScrip 1:
+La version estable de JavaScrib se lanzo en el año 1997.
+
+ECMAScrip 2:
+Se lanzo en el año 1998.
+
+ECMAScrip 3:
+Se lanzo en el año 1999.
+
+ECMAScrip 4:
+Fue abandonado debido a diferencias politicas respecto a la complejidad del lenguaje.
+
+ECMAScrip 5:
+Se lanzo en el año 2009, donde se lanza igualmente HTML5 y CSS3, se empieza a desarrollar
+el JavaScrib en el entrono NodeJs, este complemento le dio a JavaScrib la estructura para
+ser considerado lenguaje de programación.
+
+ECMAScrip 5.1:
+Se lanzo en el año 2011.
+
+ECMAScrip 6:
+Se lanzo en el año 2015.
+
+ECMAScrip 7:
+Se lanzo en el año 2016.
+
+ECMAScrip 8:
+Se lanzo en el año 2017.
+
+ECMAScrip 9:
+Se lanzo en el año 2018.
+
+ECMAScrip 10:
+Se lanzo en el año 2019.

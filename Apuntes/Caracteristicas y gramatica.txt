@@ -1,0 +1,138 @@
+
+JavaScrip es el unico lenguaje de Isomorfismo:
+Esto quiere decir; que es capaz de, hacer una aplicacion de principio a fin con una sola tecnologia.
+
+Con JavaScrip puedes hacer:
+Diseño y Desarrollo Web
+Videojuegos
+Con algunas librerias Experiencias 3D, Realidad Aumentada, Realidad Virtual.
+Con algunas librerias Controlar Hardware (Drones, robots, electrodomesticos).
+Aplicaciones Hibridas y Moviles.
+Machine Learning.
+etc.
+
+
+JavaScrip no tiene nada que ver con Java, son tecnologias totalmente diferentes.
+
+
+
+====                   Caracteristicas De JavaScrip:                   ====
+
+                   Es un lenguaje de alto nivel:
+Esto quiere decir que en JavaScrip no nos tenemos que preocupar por gestionar la memoria,
+preocuparnos por la recoleccion de basura para mejorar el rendimiento de los recursos, que estamos utilizando de la
+computadora, es la diferencia entre un lenguaje de bajo nivel donde si nos tenemos que preocupar!
+
+                   Es Interpretado y Dinamico:
+No necesita una fase de compilacion y luego pasar a fase de ejecucion, JavaScrip
+se compila en tiempo de ejecucion.
+
+                   Debilmente Tipado:
+Quiere decir que; Una variable puede tener el mismo Identificador donde puede tener diferentes tipos
+de datos en diferentes puntos del programa.
+
+                   Multi-paradigma:
+Puede combinar varios paradigmas en un solo lenguaje o proporcionar diferentes herramientas y características para
+soportar diferentes enfoques de programación.
+
+                   Sencible a Mayusculas y Minusculas:
+Esto quiere decir que si definimos una Variable con el indicativo "PERRO" y otra con el mismo indicativo "perro",
+pero en minuscula, va a ser variables totalmente diferentes.
+
+                   No nesecita Puntos(.) y Comas(,):
+Al final de cada linea en algunos lenguajes si es regla, porque sino el codigo no compilara: Pero en JavaScrip esto no es necesario
+pero por buena practica es mejor ponerlo aun asi no los necesite.
+
+
+
+====                   Escritura De Codigo:                   ====
+Los identificadores deben de comenzar con:
+Los identificadores son los nombres que le asignamos a nuestras variables o funciones.
+
+Una letra = nombre.
+Un signo de dolar = $ nombre.
+Un guion bajo = _nombre.
+Nunca con numeros o caracteres especiales.
+
+
+====         Tipos de tecnica para definir los identificadores:         ====
+Estas son buenas practicas que se recomienda.
+
+snake_case en Archivos:
+mi_archivo_javascrib.js
+
+
+UPPER_CASE en Constantes:
+const UNA_CONSTANTE = 'Soy una constante',
+PI = 3.14159265;
+
+
+UpperCamelCase en Clases:
+class SerHumano {
+    constructor (nombre, genero) {
+        this.nombre = nombre;
+        this.genero = genero;
+    }
+}
+
+
+lowerCamelCase en Objetos, Funciones, Instancias:
+const unObjeto = {
+    nombre: "Daniel",
+    email: "Daniel@gmail.com"
+}
+
+
+====                   Palabras Recerbadas:                   ====
+
+A: abstract
+B: boolean, break, byte
+C: case, catch, char, class, const, continue
+D: debugger, default, delete, do, double
+E: else, enum, export, extends
+F: false, final, finally, float, for, function
+G: goto
+I: if, implements, import, in, instanceof, int, interface
+L: long
+N: native, new, null
+P: package, private, protected, public
+R: return
+S: short, static, super, switch, synchronized
+T: this, throw, throws, transient, true, try, typeof
+V: var, volatile, void
+W: while, with
+
+
+====              Orden De Escritura De Codigo:              ====
+
+El ordenar tu codigo de la siguiente manera te permitira tener una muy buena estructura,
+te dara disciplina de saber en donde esta cada cosa.
+
+Importacion De Modulos.
+Declaracion De Variables.
+Declaracion De Funciones.
+Ejecucion De Codigo.
+
+
+
+====             Tipos De Datos             ====
+
+         Primitivos:
+    Se accede directamente al valor.
+
+* string
+* number
+* boolean
+* null
+* undefined
+* Nunca
+
+         Compuestos:
+     Se accede a la referencia del valor.
+
+* object = {}
+* array = []
+* function () {}
+* class {}
+* etc.
+
