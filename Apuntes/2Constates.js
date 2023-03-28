@@ -48,4 +48,3 @@ console.log(color);
 /* Si a lo largo del flujo, tu variable no va a cambiar utiliza una constante.
    Si a lo largo del flujo, tu variable va a cambiar su valor utiliza let, var. */
 
-   
